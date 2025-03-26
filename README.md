@@ -9,11 +9,11 @@ Clone the repository
 ### Create a conda environment after opening the repository
 
 ```bash
-conda create -n agentapp python=3.12 -y
+conda create -n myagentapp python=3.12 -y
 ```
 
 ```bash
-conda activate agentapp
+conda activate myagentapp
 ```
 
 ### install the requirements
